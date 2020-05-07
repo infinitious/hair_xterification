@@ -784,6 +784,13 @@ aside#sidebar .quote input,aside#sidebar .quote textarea{
 	height: 350px;
 	margin-left: 0px;
 }
+
+.bottom img{
+	width: 300px;
+
+	height: 400px;
+}
+
 }
 
 
